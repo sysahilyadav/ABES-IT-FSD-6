@@ -11,5 +11,5 @@ const myPromise=new Promise((resolve,reject)=>{
 })
 myPromise.then((msg)=>console.log(msg))
 .catch((error)=>console.log("some error occured"));
-// console.log(myPromise);
+console.log(myPromise);
 
