@@ -10,21 +10,6 @@ getData();
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*const myPromise=new Promise((resolve,reject)=>{
     let marks=80;
     if (marks>33){
