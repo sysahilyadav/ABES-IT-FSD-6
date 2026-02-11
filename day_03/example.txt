@@ -1,0 +1,2 @@
+this data has been written through async function 
+this data has been appended in the file using appendFile function 
