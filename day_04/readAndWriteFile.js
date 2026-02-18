@@ -1,4 +1,4 @@
-import { log } from "console";
+
 import fs from "fs/promises";
 
 export const readFile = async (path) => {

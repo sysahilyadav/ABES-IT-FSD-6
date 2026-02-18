@@ -1,61 +1,65 @@
-[{
-  "id": 1,
-  "first_name": "Ivette",
-  "last_name": "Schruyer",
-  "email": "ischruyer0@reddit.com",
-  "gender": "Female"
-}, {
-  "id": 2,
-  "first_name": "Gerry",
-  "last_name": "Springford",
-  "email": "gspringford1@alibaba.com",
-  "gender": "Female"
-}, {
-  "id": 3,
-  "first_name": "Oneida",
-  "last_name": "Phipp",
-  "email": "ophipp2@toplist.cz",
-  "gender": "Female"
-}, {
-  "id": 4,
-  "first_name": "Leonerd",
-  "last_name": "Costell",
-  "email": "lcostell3@youtu.be",
-  "gender": "Male"
-}, {
-  "id": 5,
-  "first_name": "Ida",
-  "last_name": "Champneys",
-  "email": "ichampneys4@shinystat.com",
-  "gender": "Agender"
-}, {
-  "id": 6,
-  "first_name": "Bradan",
-  "last_name": "Hayne",
-  "email": "bhayne5@biglobe.ne.jp",
-  "gender": "Male"
-}, {
-  "id": 7,
-  "first_name": "Aleen",
-  "last_name": "MacLaren",
-  "email": "amaclaren6@go.com",
-  "gender": "Female"
-}, {
-  "id": 8,
-  "first_name": "Douglass",
-  "last_name": "Clowes",
-  "email": "dclowes7@biglobe.ne.jp",
-  "gender": "Male"
-}, {
-  "id": 9,
-  "first_name": "Merlina",
-  "last_name": "Clowley",
-  "email": "mclowley8@shinystat.com",
-  "gender": "Female"
-}, {
-  "id": 10,
-  "first_name": "Roxi",
-  "last_name": "Pariss",
-  "email": "rpariss9@angelfire.com",
-  "gender": "Polygender"
-}]
+[
+  {
+    "id": 2,
+    "first_name": "Gerry",
+    "last_name": "Springford",
+    "email": "gspringford1@alibaba.com",
+    "gender": "Female"
+  },
+  {
+    "id": 3,
+    "first_name": "Oneida",
+    "last_name": "Phipp",
+    "email": "ophipp2@toplist.cz",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "first_name": "Leonerd",
+    "last_name": "Costell",
+    "email": "lcostell3@youtu.be",
+    "gender": "Male"
+  },
+  {
+    "id": 5,
+    "first_name": "Ida",
+    "last_name": "Champneys",
+    "email": "ichampneys4@shinystat.com",
+    "gender": "Agender"
+  },
+  {
+    "id": 6,
+    "first_name": "Bradan",
+    "last_name": "Hayne",
+    "email": "bhayne5@biglobe.ne.jp",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Aleen",
+    "last_name": "MacLaren",
+    "email": "amaclaren6@go.com",
+    "gender": "Female"
+  },
+  {
+    "id": 8,
+    "first_name": "Douglass",
+    "last_name": "Clowes",
+    "email": "dclowes7@biglobe.ne.jp",
+    "gender": "Male"
+  },
+  {
+    "id": 9,
+    "first_name": "Merlina",
+    "last_name": "Clowley",
+    "email": "mclowley8@shinystat.com",
+    "gender": "Female"
+  },
+  {
+    "id": 10,
+    "first_name": "Roxi",
+    "last_name": "Pariss",
+    "email": "rpariss9@angelfire.com",
+    "gender": "Polygender"
+  }
+]
